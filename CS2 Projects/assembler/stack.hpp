@@ -4,7 +4,7 @@
 //
 // File: stack.hpp
 //
-// Programmer: Theodore Drewek
+// Programmer: 
 // Date:       Fall 2022
 //
 //

@@ -1,4 +1,4 @@
-//  Theodore Drewek
+//  
 //
 //  Tests: Destructor
 //
