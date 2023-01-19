@@ -4,7 +4,7 @@
 //  Created by Jonathan Maletic.
 //  Copyright 2022 Kent State University. All rights reserved.
 //  Fall  2022
-//  Modified by: Theodore Drewek
+//  Modified by: 
 //
 
 #include "profile.hpp"
