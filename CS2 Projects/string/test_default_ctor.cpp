@@ -1,4 +1,4 @@
-//  Theodore Drewek
+//  
 //  Defualt Constructor
 //  Tests: str[0] == '\0' 
 //

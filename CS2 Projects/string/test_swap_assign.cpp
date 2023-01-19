@@ -1,4 +1,4 @@
-//  Theodore Drewek
+//  
 //  swap assign test
 //  Tests: String a("hello");
 //         String b("world");

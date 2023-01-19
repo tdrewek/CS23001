@@ -1,4 +1,4 @@
-//  Theodore Drewek
+//  
 //  charArray Constructor
 //  Tests: "abcd"
 //

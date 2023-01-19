@@ -1,4 +1,4 @@
-//  Theodore Drewek
+//  
 //  Test Input
 //  Tests: INPUT >> s1
 //

@@ -1,4 +1,4 @@
-//  Theodore Drewek
+//  
 //  Test Find String
 //  Tests: (start, String) 
 //  RETVAL: return index of start of String if found, if not fail

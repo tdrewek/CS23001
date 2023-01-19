@@ -1,4 +1,4 @@
-//  Theodore Drewek
+//  
 //  copy Constructor
 //  Tests: String a("hello");
 //         String b(a);

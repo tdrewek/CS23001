@@ -1,4 +1,4 @@
-//  Theodore Drewek
+//  
 //  Test Find Char
 //  Tests: (start, char) 
 //  RETVAL: return char if found, if not fail

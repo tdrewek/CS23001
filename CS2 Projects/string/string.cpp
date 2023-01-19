@@ -1,4 +1,4 @@
-// Theodore Drewek
+// 
 // string.cpp
 // CS23001
 

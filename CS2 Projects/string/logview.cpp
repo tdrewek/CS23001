@@ -2,7 +2,7 @@
 //       
 // Version:     1.1
 // Date:        Fall 2022
-// Author:    Theodore Drewek
+// Author:
 //
 // Description: Main body for logview application
 //

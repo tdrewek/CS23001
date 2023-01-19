@@ -1,4 +1,4 @@
-//  Theodore Drewek
+//  
 //  Test Substring
 //  Tests: (start, end) 
 // RETVAL: substring

@@ -1,4 +1,4 @@
-//  Theodore Drewek
+//  
 //  Test Equal
 //  Tests: s1 == s2
 //

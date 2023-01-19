@@ -1,4 +1,4 @@
-//  Theodore Drewek
+//  
 //  Test Concatenation
 //  Tests: s1 += s2
 //

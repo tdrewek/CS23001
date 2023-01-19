@@ -1,4 +1,4 @@
-//  Theodore Drewek
+//  
 //  char Constructor
 //  Tests: "a" 
 //

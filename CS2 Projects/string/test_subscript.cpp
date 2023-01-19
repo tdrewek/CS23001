@@ -1,4 +1,4 @@
-//  Theodore Drewek
+//  
 //  Test Subscript
 //  Tests: s1[int]
 //

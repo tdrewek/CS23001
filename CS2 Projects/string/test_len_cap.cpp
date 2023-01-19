@@ -1,4 +1,4 @@
-//  Theodore Drewek
+//  
 //  Test Len Cap
 //  Tests: length() && capacity()
 //

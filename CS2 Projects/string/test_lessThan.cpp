@@ -1,4 +1,4 @@
-//  Theodore Drewek
+//  
 //  Test Less Than
 //  Tests: s1 < s2
 //

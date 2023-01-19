@@ -4,7 +4,7 @@
 //       
 // Version:     1.0
 // Date:        Fall 2022
-// Author:      Theodore Drewek
+// Author:      
 //
 // Description: Class implementation for a log entry.
 //
