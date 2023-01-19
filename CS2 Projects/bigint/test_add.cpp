@@ -13,8 +13,6 @@
 int main () {
     {
 
-        // VERY INCOMPLETE set of tests.
-
 
         //------------------------------------------------------
         // Setup fixture
@@ -125,11 +123,6 @@ int main () {
       assert(right  == 999999999);
       assert(result == 1999999998);
     }
-
-    
-
-    
-    //Add test cases as needed.
     
     
     std::cout << "Done with testing addition." << std::endl;

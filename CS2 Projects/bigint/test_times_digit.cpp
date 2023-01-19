@@ -2,7 +2,6 @@
 //
 // Tests:  times_digit, uses ==
 //
-// NEED TO IMPLEMENT
 //
 #include <iostream>
 #include <cassert>
@@ -142,8 +141,6 @@ int main () {
         assert(bi == "789789789789789789789789789789");  
     }
 
-
-    //Add test cases as needed.
     
     std::cout << "Done testing bigint * digit" << std::endl;
     return 0;

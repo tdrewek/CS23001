@@ -246,7 +246,6 @@ int main () {
         assert(result == 230746032);
     }
     
-    //Add test cases as needed.
 
     std::cout << "Done testing multiply" << std::endl;
     return 0;

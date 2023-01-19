@@ -2,7 +2,7 @@
 //  bigint.cpp
 //  Project1
 //
-//  Created by Teddy Drewek on 9/7/22.
+//  Created on 9/7/22.
 //
 
 #include "bigint.hpp"

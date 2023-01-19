@@ -130,7 +130,6 @@ int main () {
         assert(bi == "434343434343434343434343434343434340004343434343430011434300000000000000000000000");
     }
     
-    //Add test cases as needed.
 
     std::cout << "Done testing times_10" << std::endl;
     return 0;

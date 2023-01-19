@@ -23,7 +23,6 @@ int main () {
         assert(digit == 4);
     }
     
-    //Add test cases!!
     
     {
         // Setup

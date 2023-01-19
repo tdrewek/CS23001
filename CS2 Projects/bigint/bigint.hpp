@@ -2,7 +2,7 @@
 //  bigint.hpp
 //  Project1
 //
-//  Created by Teddy Drewek on 9/7/22.
+//  Created on 9/7/22.
 //
 
 #ifndef BIGINT_HPP
